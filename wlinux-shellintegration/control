@@ -1,12 +1,8 @@
-Source: wslu
+Package: wlinux-shellintegration
 Section: utils
 Maintainer: Patrick Wu <wotingwu@live.com>
-Standards-Version: VERSIONPLACEHOLDER-0~DATEPLACEHOLDER
+Version: VERSIONPLACEHOLDER
 Priority: optional
-
-Package: wslu
-Architecture: arm64 amd64
-Depends: bc, wget
-Recommends: git
-Description: A collection of utilities for Windows 10 Linux Subsystem
- This is a collection of utilities for Windows 10 Linux Subsystem, such as enabling sound in WSL or creating your favorite linux app shortcuts on Windows 10 Desktop. Requires Windows 10 Creators Update and higher.
+Architecture: all
+Description: Windows 10 File Explorer Shell Integration for WLinux.
+ Installing this package will install the shell integration in Explorer.

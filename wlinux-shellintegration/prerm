@@ -1,3 +1,5 @@
 #!/usr/bin/env bash
-update-alternatives --remove x-www-browser /usr/bin/wslview
-update-alternatives --remove www-browser /usr/bin/wslview
+echo "Disabling Windows Explorer shell integration."
+cp /usr/share/wlinux/ShellIntegration/Install.reg $(wslupath -T)/Uninstall.reg
+cmd.exe /C 'Reg import %TEMP%\Uninstall.reg'
+cmd.exe /C 'del %TEMP%\Uninstall.reg'
