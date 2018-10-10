@@ -1,8 +1,0 @@
-Package: wlinux-utils
-Section: utils
-Architecture: all
-Maintainer: Patrick Wu <wotingwu@live.com>
-Version: VERSIONPLACEHOLDER
-Priority: optional
-Description: the setup utilities for WLinux.
- This is a utility that can setup WLinux easily.
