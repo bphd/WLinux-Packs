@@ -1,5 +1,0 @@
-#!/usr/bin/env bash
-echo "Enabling Windows Explorer shell integration."
-cp /usr/share/wlinux/ShellIntegration/Install.reg $(wslupath -T)/Install.reg
-cmd.exe /C 'Reg import %TEMP%\Install.reg'
-cmd.exe /C 'del %TEMP%\Install.reg'
