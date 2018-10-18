@@ -4,4 +4,4 @@
 
 # clone wlinux-baseconfig, create .deb, copy into place with reprepo
 
-# clone wlinux-setup, create .deb, copy into place with reprepo
+# clone wlinux-*, create .debs, copy into place with reprepo

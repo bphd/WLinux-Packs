@@ -1,6 +1,6 @@
 Package: wlinux-gui
 Section: utils
-Maintainer: Whitewater Foundry, Ltd. Co. <contact@whitewaterfoundry.com>
+Maintainer: Patrick Wu <wotingwu@live.com>
 Architecture: all
 Version: VERSIONPLACEHOLDER
 Priority: optional

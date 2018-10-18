@@ -1,0 +1,8 @@
+Package: wlinux-shellintegration
+Section: utils
+Maintainer: Patrick Wu <wotingwu@live.com>
+Version: VERSIONPLACEHOLDER
+Priority: optional
+Architecture: all
+Description: Windows 10 File Explorer Shell Integration for WLinux.
+ Installing this package will install the shell integration in Explorer.
