@@ -1,9 +1,6 @@
 # WLinux Packages
 
-These are packages definition for WLinux. 
+These are the default packages for WLinux. 
 
-- `wlinux-gui`
-- `wlinux-hidpi`
-- `wlinux-shellintegration`
+- `wlinux-baseconfig`
 - `wlinux-setup`
-- `wlinux-full` (planned)
