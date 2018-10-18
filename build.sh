@@ -1,7 +1,5 @@
-#/bin/bash
+#!/bin/bash
 
 # this script is designed to be set as cron job on repo.whitewaterfoundry.com
-
-# clone wlinux-baseconfig, create .deb, copy into place with reprepo
 
 # clone wlinux-*, create .debs, copy into place with reprepo
