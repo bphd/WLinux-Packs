@@ -1,8 +1,10 @@
-Package: wlinux-
+Package: wlinux-wlsu
 Section: utils
 Maintainer: Whitewater Foundry, Ltd. Co. <contact@whitewaterfoundry.com>
 Architecture: all
 Version: VERSIONPLACEHOLDER
 Priority: optional
-Depends:
-Description: 
+Depends: 
+Description: wslutilities
+
+https://github.com/wslutilities/wslu

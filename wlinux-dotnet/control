@@ -1,8 +1,0 @@
-Package: wlinux-
-Section: utils
-Maintainer: Whitewater Foundry, Ltd. Co. <contact@whitewaterfoundry.com>
-Architecture: all
-Version: VERSIONPLACEHOLDER
-Priority: optional
-Depends:
-Description: 

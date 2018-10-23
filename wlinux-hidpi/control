@@ -1,8 +1,0 @@
-Package: wlinux-hidpi
-Section: utils
-Architecture: all
-Maintainer: Patrick Wu <wotingwu@live.com>
-Version: VERSIONPLACEHOLDER
-Priority: optional
-Description: Quickly setup HiDPI in WLinux.
- This is a utility that can quickly setup HiDPI on WLinux.

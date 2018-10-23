@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-sed -i "s/^QT_SCALE_FACTOR=2$//g" /etc/profile
-sed -i "s/^GDK_SCALE=2$//g" /etc/profile

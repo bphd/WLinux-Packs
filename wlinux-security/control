@@ -1,8 +1,8 @@
-Package: wlinux-
+Package: wlinux-security
 Section: utils
 Maintainer: Whitewater Foundry, Ltd. Co. <contact@whitewaterfoundry.com>
 Architecture: all
-Version: VERSIONPLACEHOLDER
+Version: 1.2
 Priority: optional
-Depends:
-Description: 
+Depends: 
+Description: wlinux-security

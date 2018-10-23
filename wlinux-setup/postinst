@@ -1,3 +1,1 @@
 #!/usr/bin/env bash
-echo "QT_SCALE_FACTOR=2" >> /etc/profile
-echo "GDK_SCALE+2" >> /etc/profile

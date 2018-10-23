@@ -1,6 +1,7 @@
 #!/bin/bash
 
-build each wlinux-
+build wlinux-setup
+build wlinux-security
+build wlinux-baseconfig
 
 copy to deb
-

@@ -1,5 +1,0 @@
-#!/usr/bin/env bash
-export QT_SCALE_FACTOR=2
-export GDK_SCALE=2
-sudo sh -c 'echo "QT_SCALE_FACTOR=2" >> /etc/profile'
-sudo sh -c 'echo "GDK_SCALE=2" >> /etc/profile'

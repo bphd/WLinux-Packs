@@ -1,9 +1,0 @@
-Package: wlinux-gui
-Section: utils
-Maintainer: Whitewater Foundry, Ltd. Co. <contact@whitewaterfoundry.com>
-Architecture: all
-Version: VERSIONPLACEHOLDER
-Priority: optional
-Depends: xclip, gnome-themes-standard, gtk2-engines-murrine, gtk2-engines-pixbuf, dbus, dbus-x11
-Description: A collection of base GUI Packages for WLinux
- This is a collection of base GUI Packages for WLinux to enable the application.
