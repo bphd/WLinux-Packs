@@ -1,7 +1,6 @@
 #!/bin/bash
 
-# this script is designed to be set as cron job on repo.whitewaterfoundry.com
+build each wlinux-
 
-# get wslu, put into wlinux-wslu
+copy to deb
 
-# clone each of wlinux-*, create .debs, copy into place with reprepo
